@@ -1,3 +1,3 @@
-# 游戏效果图
-
-![](https://github.com/xiaxia0414/monitor-upper-computer/blob/main/resourse/Snipaste_2024-01-13_18-49-18.png)
+### 游戏效果图
+####发牌
+![](https://github.com/xiaxia0414/LandLords/blob/main/resource/PixPin_2024-03-06_17-28-55.gif)
